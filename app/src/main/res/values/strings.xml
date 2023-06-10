@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">StoreStamp</string>
+    <string name="admin">Admin</string>
+    <string name="customer">Customer</string>
+    <string name="sms">SMS</string>
+    <string name="coupon">Coupon</string>
+    <string name="stamp">STAMP : </string>
+    <string name="menu_stamp">Stamp </string>
+    <string name="apply">APPLY</string>
+    <string name="applied">Applied</string>
+    <string name="use">Use</string>
+    <string name="used">Used</string>
+    <string name="skip">SKIP</string>
+    <string name="accumulate_stamps">%1$s stamp(s) in possession.</string>
+    <string name="accumulate_coupon">%1$s Coupon(s)</string>
+    <string name="ea">ea</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="sms_history">SMS History</string>
+    <string name="select_all">Select All</string>
+    <string name="registered_coupon">Registered Coupon</string>
+    <string name="coupon_registration">Coupon Registration</string>
+    <string name="create_coupon">Create Coupon</string>
+    <string name="stamp_registration">Please enter the stamp to be issued.</string>
+
+    <string name="keyboard_del">Del.</string>
+
+    <string name="sign_in">Login</string>
+    <string name="enter_id">Please enter your ID.</string>
+    <string name="enter_pw">Please enter your Password.</string>
+    <string name="store_id">ID</string>
+    <string name="password">Password</string>
+    <string name="copyright">Copyright 2023. La Onda All Rights Reserved</string>
+
+    <string name="more">More</string>
+    <string name="serarch_result">%1$s item(s) found.</string>
+    <string name="enter_phone_number">Please enter your phone number.</string>
+    <string name="no_coupons">No coupons.</string>
+
+    <string name="empty_content">Empty Content</string>
+    <string name="coupon_list">Coupon List</string>
+    <string name="add_stamp">Add Stamp(s)</string>
+</resources>
